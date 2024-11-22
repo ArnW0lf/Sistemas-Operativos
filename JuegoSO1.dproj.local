@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/06/17 16:37:46.393.pas,C:\Users\ellieser\Documents\RAD Studio\Projects\Unit1.pas=E:\GINO\UAGRM\Juego\uFrmMain.pas</Transaction>
+    <Transaction>2013/06/17 16:37:46.393.dfm,C:\Users\ellieser\Documents\RAD Studio\Projects\Unit1.dfm=E:\GINO\UAGRM\Juego\uFrmMain.dfm</Transaction>
+    <Transaction>2013/06/17 16:38:04.044.dproj,C:\Users\ellieser\Documents\RAD Studio\Projects\Project1.dproj=E:\GINO\UAGRM\Juego\JuegoSO1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
